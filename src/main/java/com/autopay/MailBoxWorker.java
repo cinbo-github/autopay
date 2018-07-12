@@ -236,6 +236,7 @@ public class MailBoxWorker {
         public static void main(String[] args) throws Exception {
 
             //displayallemail();
+            System.out.println("branch2 测试代码");
             System.out.println("测试代码");
             System.out.println("验证码:"+getvalidcode());
 
